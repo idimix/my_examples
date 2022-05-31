@@ -1,0 +1,7 @@
+*.class
+*.log
+*.jar
+.idea
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
